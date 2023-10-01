@@ -1,0 +1,33 @@
+[1.187s] Invoking command in '/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/src/my_rcl_package': PYTHONPATH=/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/prefix_override:/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_rcl_package build --build-base /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/build install --record /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/install.log --single-version-externally-managed
+[1.577s] running egg_info
+[1.578s] creating ../../build/my_rcl_package/my_rcl_package.egg-info
+[1.578s] writing ../../build/my_rcl_package/my_rcl_package.egg-info/PKG-INFO
+[1.579s] writing dependency_links to ../../build/my_rcl_package/my_rcl_package.egg-info/dependency_links.txt
+[1.580s] writing entry points to ../../build/my_rcl_package/my_rcl_package.egg-info/entry_points.txt
+[1.581s] writing requirements to ../../build/my_rcl_package/my_rcl_package.egg-info/requires.txt
+[1.581s] writing top-level names to ../../build/my_rcl_package/my_rcl_package.egg-info/top_level.txt
+[1.584s] writing manifest file '../../build/my_rcl_package/my_rcl_package.egg-info/SOURCES.txt'
+[1.645s] reading manifest file '../../build/my_rcl_package/my_rcl_package.egg-info/SOURCES.txt'
+[1.647s] writing manifest file '../../build/my_rcl_package/my_rcl_package.egg-info/SOURCES.txt'
+[1.647s] running build
+[1.648s] running build_py
+[1.648s] creating /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/build
+[1.648s] creating /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/build/lib
+[1.649s] creating /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/build/lib/my_rcl_package
+[1.649s] copying my_rcl_package/__init__.py -> /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/build/lib/my_rcl_package
+[1.649s] running install
+[1.650s] running install_lib
+[1.651s] creating /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/lib/python3.8/site-packages/my_rcl_package
+[1.652s] copying /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/build/lib/my_rcl_package/__init__.py -> /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/lib/python3.8/site-packages/my_rcl_package
+[1.652s] byte-compiling /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/lib/python3.8/site-packages/my_rcl_package/__init__.py to __init__.cpython-38.pyc
+[1.654s] running install_data
+[1.656s] creating /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/share/ament_index
+[1.656s] creating /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/share/ament_index/resource_index
+[1.657s] creating /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/share/ament_index/resource_index/packages
+[1.657s] copying resource/my_rcl_package -> /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/share/ament_index/resource_index/packages
+[1.657s] copying package.xml -> /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/share/my_rcl_package
+[1.657s] running install_egg_info
+[1.660s] Copying ../../build/my_rcl_package/my_rcl_package.egg-info to /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/lib/python3.8/site-packages/my_rcl_package-0.0.0-py3.8.egg-info
+[1.661s] running install_scripts
+[1.688s] writing list of installed files to '/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/install.log'
+[1.730s] Invoked command in '/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/src/my_rcl_package' returned '0': PYTHONPATH=/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/prefix_override:/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/install/my_rcl_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_rcl_package build --build-base /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/build install --record /home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/create_rclpy_pkg/rclpy_pkg_test_ws/build/my_rcl_package/install.log --single-version-externally-managed

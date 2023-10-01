@@ -1,0 +1,14 @@
+source;share/multi_custom_multi_dep_pkg_test/hook/cmake_prefix_path.ps1
+source;share/multi_custom_multi_dep_pkg_test/hook/cmake_prefix_path.dsv
+source;share/multi_custom_multi_dep_pkg_test/hook/cmake_prefix_path.sh
+source;share/multi_custom_multi_dep_pkg_test/hook/ld_library_path_lib.ps1
+source;share/multi_custom_multi_dep_pkg_test/hook/ld_library_path_lib.dsv
+source;share/multi_custom_multi_dep_pkg_test/hook/ld_library_path_lib.sh
+source;share/multi_custom_multi_dep_pkg_test/hook/pythonpath.ps1
+source;share/multi_custom_multi_dep_pkg_test/hook/pythonpath.dsv
+source;share/multi_custom_multi_dep_pkg_test/hook/pythonpath.sh
+source;share/multi_custom_multi_dep_pkg_test/local_setup.bash
+source;share/multi_custom_multi_dep_pkg_test/local_setup.dsv
+source;share/multi_custom_multi_dep_pkg_test/local_setup.ps1
+source;share/multi_custom_multi_dep_pkg_test/local_setup.sh
+source;share/multi_custom_multi_dep_pkg_test/local_setup.zsh

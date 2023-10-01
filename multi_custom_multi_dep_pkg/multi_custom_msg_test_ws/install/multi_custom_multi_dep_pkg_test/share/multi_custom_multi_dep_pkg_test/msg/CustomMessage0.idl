@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from multi_custom_multi_dep_pkg_test/msg/CustomMessage0.msg
+// generated code does not contain a copyright notice
+
+#include "sensor_msgs/msg/Imu.idl"
+
+module multi_custom_multi_dep_pkg_test {
+  module msg {
+    struct CustomMessage0 {
+      @verbatim (language="comment", text=
+        " Custommessagedefinition1")
+      int32 num;
+
+      string message;
+
+      sensor_msgs::msg::Imu imu_data;
+    };
+  };
+};
