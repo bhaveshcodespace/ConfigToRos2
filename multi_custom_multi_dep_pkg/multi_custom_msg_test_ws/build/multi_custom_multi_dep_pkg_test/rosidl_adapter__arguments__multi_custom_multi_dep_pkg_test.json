@@ -1,7 +1,0 @@
-{
-  "package_name": "multi_custom_multi_dep_pkg_test",
-  "non_idl_tuples": [
-    "/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/multi_custom_multi_dep_pkg/multi_custom_msg_test_ws/src/multi_custom_multi_dep_pkg_test:msg/CustomMessage0.msg",
-    "/home/ubuntu20/wsl_bhavesh_git_repo/config_ros2_code/multi_custom_multi_dep_pkg/multi_custom_msg_test_ws/src/multi_custom_multi_dep_pkg_test:msg/CustomMessage1.msg"
-  ]
-}

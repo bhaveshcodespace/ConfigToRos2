@@ -1,4 +1,0 @@
-source;share/multi_custom_multi_dep_pkg_test/local_setup.bash
-source;share/multi_custom_multi_dep_pkg_test/local_setup.dsv
-source;share/multi_custom_multi_dep_pkg_test/local_setup.sh
-source;share/multi_custom_multi_dep_pkg_test/local_setup.zsh
